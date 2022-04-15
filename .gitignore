@@ -1,0 +1,5 @@
+.idea/
+tmp/
+*.http
+*.db
+.DS_Store
